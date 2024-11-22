@@ -8,3 +8,4 @@ Um sistema operacional atua como uma **interface** entre o hardware do computado
 - **Gerenciamento de Arquivos**: Organização e acesso a dados no armazenamento.
 - **Segurança e Controle de Acesso**: Proteção de dados e recursos.
 
+
